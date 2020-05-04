@@ -1,0 +1,12 @@
+{
+  "name": "uranium-landfill",
+  "version": "0.0.1",
+  "date": "2020-05-04",
+  "title": "Uranium Landfill",
+  "author": "EnigmaticAussie",
+  "dependencies": [
+    "base >= 0.18.0"
+  ],
+  "description": "Add uranium landfill as a resource sink for lategame.",
+  "factorio_version": "0.18"
+}
